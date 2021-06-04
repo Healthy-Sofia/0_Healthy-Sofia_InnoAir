@@ -58,7 +58,7 @@
 
 Важно е при възможност да бъдат избегнати натоварени градски булеварди и улици и да се търсят максимално озеленени и паркови трасета.
 
-**Графика 4**
+**Графика 4**  
 Пример за интегрирана велоалейна мрежа.   
 червено - велорингове  
 синьо - веломагистрални лъчове
@@ -66,6 +66,9 @@
 ![map](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/map.JPG "map")
 
 ---------
-#### 2021 10_Healthy-Sofia_InnoAir
+#### 2021 
+10_Healthy-Sofia_InnoAir  
+Камен Русков  
+Захари Димитров  
 InnoAirChallenge - Making mobility smarter, Sofia, hackathon, 02-04 June 2021.
 
