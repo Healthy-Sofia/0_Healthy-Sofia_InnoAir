@@ -25,6 +25,12 @@
 
 Изпробвайте тази **[примерна употреба на данни от Strava API.](https://healthy-sofia.github.io/)**
 
+**Графика 1**  
+Изтегляне на маршрути от активности
+![AppTest](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/apptest.png "routes")
+
+**Графика 2**   
+Пример за работа с данни от Strava API  
 
 ![stravaAPI](https://developers.strava.com/images/getting-started-5.png "stravaAPI")
 
@@ -37,7 +43,7 @@
 
 Така "My Sofia Ride" може да бъде надградено и с карти и маршрути, които потребителите да ползват за планиране на придвижването си, така , че то да стане по-бързо, по-здравословно и лесно и всичко това на базата на опита на всички останали потребители.
 
-**Графика 4**  
+**Графика 3**  
 Пример за интегрирана велоалейна мрежа.   
 червено - велорингове  
 синьо - веломагистрални лъчове
@@ -54,18 +60,18 @@
 
 Един примерен вариант е с лека повдигната мостова  конструкция, която да носи алеята високо над нивото на терена. Такива конструкции могат да се ползват и за преминаване на натоварени транспортни артерии, железопътни линиии големи булеварди. Добър вариант е и комбинация с паркова среда с допълнителни слънцезащитни елемети над широки открити площи. 
 
-**Графика 1**
+**Графика 4**
 ![BikeLane1](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/img2.png "bikeLane1")
 
-**Графика 2**
+**Графика 5**
 ![BikeLane2](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/img1.png "bikeLane2")
 
-**Графика 3**
+**Графика 6**
 Примерен детал - велоестакада в Дания
 
 ![BikeLane3](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/detail.jpg "detail")
 
-Видео
+**Видео** - кликнете на снимката за да видите видеото
 
 [![BikeLaneVideo](http://img.youtube.com/vi/fk01GdpmjZE/0.jpg)](http://www.youtube.com/watch?v=fk01GdpmjZE)
 
