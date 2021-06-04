@@ -66,9 +66,9 @@
 ![map](https://raw.githubusercontent.com/Healthy-Sofia/10_Healthy-Sofia_InnoAir/main/assets/map.JPG "map")
 
 ---------
-#### 2021 
-10_Healthy-Sofia_InnoAir  
+2021 
+**10_Healthy-Sofia_InnoAir**  
 Камен Русков  
 Захари Димитров  
-InnoAirChallenge - Making mobility smarter, Sofia, hackathon, 02-04 June 2021.
+**InnoAirChallenge** - Making mobility smarter, Sofia, hackathon, 02-04 June 2021.
 
